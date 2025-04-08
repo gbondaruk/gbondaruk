@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi 👋 I'm Greg Bondaruk
+
+I'm a full-stack web and mobile developer. I focus on creating pratical, pleasant and playful apps and websites.
+
+My journey in coding started by tinkering with HTML & CSS while managing newsletter and websites.
+
+Now I've develed deep into JavaScript, TypeScript, React, React Native Expo, Next.js Node.js & PostgreSQL.
+
+My interests are in mobile app development, and I'm learning Swift & SwitfUI.
 
 <!--
 **gbondaruk/gbondaruk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
